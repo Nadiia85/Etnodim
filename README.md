@@ -1,0 +1,2 @@
+# Etnodim
+Etnodim (course project)
